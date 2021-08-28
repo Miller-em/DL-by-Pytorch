@@ -11,5 +11,8 @@
 - Dropout的实现
 - kaggle-房价预测的示例
 - 卷积基础
-- 添加了LeNet的两种实现方式
-- 添加了AlexNet的训练，测试，推理
+- LeNet的两种实现方式
+- AlexNet的训练，测试，推理
+- VGG的实现
+- NiN的实现
+- GoogLeNet的实现
