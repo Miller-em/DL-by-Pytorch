@@ -16,3 +16,5 @@
 - VGG的实现
 - NiN的实现
 - GoogLeNet的实现
+- BatchNorm的实现
+- ResNet的实现
